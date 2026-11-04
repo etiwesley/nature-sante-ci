@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nature-sante-ci.netlify.app/sitemap.xml
